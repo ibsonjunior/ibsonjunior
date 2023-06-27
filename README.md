@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Meu nome é Ibson Junior
 
-<div align="center">
+<div>
  
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibsonjunior&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
